@@ -3,7 +3,7 @@ title: "An Introduction to Tropical Mathematics"
 subtitle: "Turning Polynomials into Polygons"
 date: 2026-10-15
 room: 1S-213
-image: "/assets/sera-gunn.png"
+image: "../assets/sera-gunn.png"
 ---
 
 We will look at the various ways that the mathematics of curves and surfaces is analogous to that of polygons and graphs (networks of vertices and edges). Speaker: Prof. Sera Gunn

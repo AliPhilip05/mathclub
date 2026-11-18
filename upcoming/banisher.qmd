@@ -2,7 +2,7 @@
 title: Banisher board game demo
 date: 2026-11-17
 room: 1S-213
-image: "/assets/banisher-2026.jpg"
+image: "../assets/banisher-2026.jpg"
 ---
 
 Come join Math Club to play a game of Banisher! Banisher is a game created by

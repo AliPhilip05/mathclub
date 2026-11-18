@@ -13,7 +13,6 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - mathstuff.qmd
 
 format:
   html:

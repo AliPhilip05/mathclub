@@ -2,7 +2,7 @@
 title: Higher Level Math Session
 date: 2026-11-17
 room: 1S-213
-image: "/assets/higher-math-session-2026.png"
+image: "../assets/higher-math-session-2026.png"
 ---
 
 Join the Math Club to hear professors pitch 300+ level math courses. All are welcome! 
