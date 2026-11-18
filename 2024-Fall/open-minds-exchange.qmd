@@ -2,7 +2,7 @@
 title: Math Club x Open Minds Exchange!
 date: 2024-10-24
 room: 1S-219
-image: "/assets/OMExMathClub_flyer.png"
+image: "../assets/OMExMathClub_flyer.png"
 ---
 
 An intriguing and intellectual conversation with the Open Minds Exchange!

@@ -2,7 +2,7 @@
 title: "Beyond the Numbers: An Afternoon of Games!"
 date: 2024-10-17
 room: 1S-214
-image: "/assets/FallGames1.png"
+image: "../assets/FallGames1.png"
 ---
 
 Join the Math Club for an afternoon of fun, strategy, and board games!

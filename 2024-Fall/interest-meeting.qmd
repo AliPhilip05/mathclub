@@ -2,7 +2,7 @@
 title: Math Club General Interest Meeting
 date: 2024-09-19
 room: 1S-219
-image: "/assets/general_interest_flyer.png"
+image: "../assets/general_interest_flyer.png"
 ---
 
 Come learn more about the Math Club and how you can get involved!

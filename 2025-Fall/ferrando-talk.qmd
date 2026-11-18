@@ -2,7 +2,7 @@
 title: "Mathematical Principles of Generative Diffusion Models"
 date: 2025-9-18
 room: 1S-219
-image: "/assets/ferrando-talk.png"
+image: "../assets/ferrando-talk.png"
 ---
 
 What are the mathematical principles behind generative AI? Come join us to find out! Speaker: Prof. Robert Ferrando
