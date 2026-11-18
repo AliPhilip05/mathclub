@@ -15,4 +15,9 @@ $hover: #0060a0;
 .listing-description {
   margin-top: 0.3rem;
 }
+
+@media (min-width: 40rem) {
+  .navbar-title::before {
+    content: "College of Staten Island ";
+  }
 }

@@ -4,7 +4,7 @@ project:
     - "trop-talk/*"
 
 website:
-  title: "College of Staten Island Math Club"
+  title: "Math Club"
   favicon: mathclub.svg
   navbar:
     logo: mathclub.svg
