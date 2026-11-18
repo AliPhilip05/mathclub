@@ -1,0 +1,10 @@
+---
+title: Fall Games!
+date: 2025-10-9
+room: 1S-214
+image: "/assets/FallGames2.png"
+---
+
+Come join us at the Math tutoring lab to play math board games and eat pizza! Mingle with other math majors and have fun! 
+
+Room {{< meta room >}}

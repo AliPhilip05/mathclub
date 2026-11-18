@@ -1,0 +1,10 @@
+---
+title: Topology & Cosmology
+date: 2024-11-26
+room: 1S-219
+image: "/assets/1126_mathclubposter.png"
+---
+
+A talk on 3-dimensional topology and its relationship to the shape of the physical universe. Presented by Prof. Joseph Quinn!
+
+Room {{< meta room >}}

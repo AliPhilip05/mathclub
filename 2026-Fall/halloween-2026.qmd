@@ -1,0 +1,10 @@
+---
+title: Halloween Party
+date: 2026-10-29
+room: 1S-219
+image: "/assets/halloween2026.png"
+---
+
+Join the Math Club for a fun event where we'll play games, eat food, and socialize with other people interested in math! 
+
+Room {{< meta room >}}

@@ -1,0 +1,12 @@
+---
+title: Love Algorithms
+subtitle: The Math of Modern Love
+date: 2025-02-13
+image: /assets/valentines-2025.jpg
+room: 1S-219
+---
+
+How does math shape dating algorithms?
+[Short video explaining it all!](https://www.youtube.com/watch?v=uZLkhkCmwHg)
+
+Room {{< meta room >}}

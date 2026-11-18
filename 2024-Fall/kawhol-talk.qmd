@@ -1,0 +1,13 @@
+---
+title: "On Buttons and balls that Cannot Run Away"
+subtitle: Simons Undergraduate Lecture Series
+date: 2024-09-10
+room: 1P-119
+image: "/assets/bernd.png"
+---
+
+In my talk, I shall survey some surprising geometrical facts and some of the history of their discovery. You will understand why some **British coins have corners** and what went wrong with a booster rocket at the 1986 disaster of the space shuttle Challenger
+
+By Prof. Bernd Kawhol of the University of Cologne, Germany
+
+Room {{< meta room >}}

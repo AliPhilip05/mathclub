@@ -1,0 +1,11 @@
+---
+title: Student Research Presentations (Megan Trapanese)
+date: 2024-12-12
+room: 1S-219
+image: "/assets/megan.png"
+---
+
+Megan Trapanese (senior, MHC) presents her novel research on dimensional reduction in the context of ensemble ocean modeling
+[Check out her talk!](https://www.overleaf.com/read/qttczdghnddj#5a5cc9)
+
+Room {{< meta room >}}

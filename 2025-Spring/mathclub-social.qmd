@@ -1,0 +1,10 @@
+---
+title: Math Club Social
+date: 2025-02-25
+image: /assets/mathclubsocial2025.png
+room: 1S-214
+---
+
+Whether it’s numbers or nonsense, come chat with the Math Club at our relaxing afternoon social!
+
+Room {{< meta room >}}
