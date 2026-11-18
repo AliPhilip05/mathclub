@@ -4,14 +4,20 @@ $link: #206000;
 $hover: #0060a0;
 
 /*-- scss:rules --*/
-.listing-title > a {
-    color: $link !important;
+.listing-title>a {
+  color: $link !important;
 }
 
-.listing-title > a:hover {
-    color: $hover !important;
+.listing-title>a:hover {
+  color: $hover !important;
 }
 
 .listing-description {
-    margin-top: 0.3rem;
+  margin-top: 0.3rem;
+}
+
+@media (min-width: 40rem) {
+  .navbar-title::before {
+    content: "College of Staten Island ";
+  }
 }
