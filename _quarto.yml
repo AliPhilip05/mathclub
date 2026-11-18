@@ -5,7 +5,10 @@ project:
 
 website:
   title: "College of Staten Island Math Club"
+  favicon: mathclub.svg
   navbar:
+    logo: mathclub.svg
+    logo-alt: "MathClub Icon"
     left:
       - href: index.qmd
         text: Home
