@@ -1,0 +1,14 @@
+---
+title: Pi Day 2026
+date: 2026-03-17
+image: /assets/pi-day-2026.png
+room: 1S-214
+---
+
+It’s (almost) Pi Day! A time to honor the beauty of circles, the brilliance of
+3.1415..., and the joy of discovery. Let’s celebrate with creativity,
+curiosity, and maybe even dessert!
+
+**FOOD AND REFRESHMENTS PROVIDED!**
+
+Room {{< meta room >}}

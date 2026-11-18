@@ -4,8 +4,11 @@ project:
     - "trop-talk/*"
 
 website:
-  title: "Math Club at CUNY CSI"
+  title: "College of Staten Island Math Club"
+  favicon: mathclub.svg
   navbar:
+    logo: mathclub.svg
+    logo-alt: "MathClub Icon"
     left:
       - href: index.qmd
         text: Home
@@ -14,7 +17,8 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      - minty
+      - mathclub.scss
     toc: true
 

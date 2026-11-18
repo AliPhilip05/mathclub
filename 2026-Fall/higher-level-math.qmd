@@ -1,0 +1,12 @@
+---
+title: Higher Level Math Session
+date: 2026-11-17
+room: 1S-213
+image: "/assets/higher-math-session-2026.png"
+---
+
+Join the Math Club to hear professors pitch 300+ level math courses. All are welcome! 
+
+[List of Spring '27 Upper Level Courses](/assets/s27-course-info.pdf) 
+
+Room {{< meta room >}}
